@@ -24,5 +24,4 @@ redirect_from:
 - [Catherine Wang](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/catherine-wang.html)
 - [Ron Yurko](https://www.stat.cmu.edu/~ryurko/)
 
-# Alumnus
 
