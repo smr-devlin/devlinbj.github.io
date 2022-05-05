@@ -55,9 +55,9 @@ Distinguished Lecturer:
 PROFESSIONAL ACTIVITIES:
 ======
 * Institute of Mathematical Statistics
- - Elected Fellow, 1997
- - Executive Secretary, 1996-1999
- - Program Chair, Spring Meetings, 1994
+  * Elected Fellow, 1997
+  * Executive Secretary, 1996-1999
+  * Program Chair, Spring Meetings, 1994
 
 
 
