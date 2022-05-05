@@ -58,6 +58,20 @@ PROFESSIONAL ACTIVITIES:
   * Elected Fellow, 1997
   * Executive Secretary, 1996-1999
   * Program Chair, Spring Meetings, 1994
-
+* American Statistical Association
+  * Elected Fellow, 1996
+  * Associate Editor, Journal of the American Statistical Association, T&M 1994-1999, 2001-2005
+  * Associate Editor, Journal of the American Statistical Association, CS&A 1999-2008
+* American Association for the Advancement of Science (AAAS)
+  * Statistics Section chair 2017
+  * Elected fellow 2020
+* International Statistical Institute
+  * Elected member, 1995
+* International Biometrics Society
+  * Associate Editor, Biometrics, 1997-
+  * Best Abstract Award, 1992
+* Genetics Society
+  * Associate Editor 2014 -2015
+ 
 
 
