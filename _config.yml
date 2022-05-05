@@ -86,7 +86,7 @@ author:
   location         : "Pittsbuurgh, PA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=kathryn+roeder"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=KPxl53wzvv4C&gmla=AJsN-F4PQqogHWBbzmKjzGj0IBkflRH6GQkIr8H3pDT016EmeZrL-M1Jnkynyu9N69eMotcLZw4kQAv6zzn7gRzsFVIOM6ODxngUvfQfj5YFpRdFCgr4nBhTgGuDpN6tEEWcoRMbFnl7"
+  googlescholar    : "https://scholar.google.com/citations?user=KPxl53wzvv4C&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kathrynmroeder"
+  github           : #"kathrynmroeder"
   google_plus      :
   keybase          :
   instagram        :
