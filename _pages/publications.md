@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
--[Google scholar](https://scholar.google.com/citations?user=KPxl53wzvv4C&hl=en)
+- [Google scholar](https://scholar.google.com/citations?user=KPxl53wzvv4C&hl=en)
 
 # Selected Publications
 
