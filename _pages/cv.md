@@ -18,7 +18,7 @@ Work experience
 ======
 * Carnegie Mellon University, Pittsburgh, PA
   * Vice Provost for Faculty; 2015-2019
-  * Departments of Statistics and Data Science \& Computational Biology 1998-present, Professor; 1994-1997, Associate Professor
+  * Departments of Statistics and Data Science & Computational Biology 1998-present, Professor; 1994-1997, Associate Professor
 
 * Yale University, New Haven, CT
   * 1991-1994, Associate Professor; 1988-1991, Assistant Professor
@@ -37,6 +37,27 @@ SELECTED AWARDS:
 * COPSS Snedecor Award, for best biometrical paper, 1995-1997
 * NSF Young Investigator Award, 1992-1997
 
+Distinguished Lecturer:
+======
+* CC Li Lecture 2021
+* Selected JASA-App Paper for JSM 2020-JASA section
+* INSAR Keynote Speaker 2019
+* Norman Breslow Lecture, 2019
+* Myra Samuels Lecture, 2017
+* Graybill Conference, Keynote Speaker, 2017
+* Seaver Lecturer Mount Sinai School of Medicine, 2014
+* Donna J. Brogan Lecture, Emory University, 2014
+* Myrto Lefkopoulou Lecture, Harvard School of Public Health, 1998
+* Kansas State University, 1997
+* Goucher College, 1995
+* Purdue University’s School of Science, 1994
+
+PROFESSIONAL ACTIVITIES:
+======
+* Institute of Mathematical Statistics
+* * Elected Fellow, 1997
+* * Executive Secretary, 1996-1999
+* * Program Chair, Spring Meetings, 1994
 
 
 
