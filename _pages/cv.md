@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ======
 * Ph.D. (Statistics), 1988, Pennsylvania State University
 * B.S. (Wildlife Resources, summa cum laude), 1982, University of Idaho
 
-POSITIONS
+Positions
 ======
 * Carnegie Mellon University, Pittsburgh, PA
   * Vice Provost for Faculty; 2015-2019
@@ -23,7 +23,7 @@ POSITIONS
 * Yale University, New Haven, CT
   * 1991-1994, Associate Professor; 1988-1991, Assistant Professor
   
-SELECTED AWARDS:
+Selected Awards:
 ======
 * COPSS Distinguished Achievement Award and Lectureship, 2020
 * University Professorship, 2020
@@ -52,7 +52,7 @@ Distinguished Lecturer:
 * Goucher College, 1995
 * Purdue University’s School of Science, 1994
 
-PROFESSIONAL ACTIVITIES:
+Professional Activities:
 ======
 * Institute of Mathematical Statistics
   * Elected Fellow, 1997
