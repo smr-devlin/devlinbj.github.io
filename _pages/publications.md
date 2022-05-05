@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 - [Google scholar](https://scholar.google.com/citations?user=KPxl53wzvv4C&hl=en)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=kathryn+roeder)
+- [ORCID](https://orcid.org/0000-0002-8869-6254)
 
 # Selected Publications
 
-- Wang, Jiebiao and Roeder, Kathryn and Devlin, Bernie, Bayesian estimation of cell type-specific gene expression with prior derived from single-cell data, Genome Research, gr--268722, 2021.
+Wang, Jiebiao and Roeder, Kathryn and Devlin, Bernie, Bayesian estimation of cell type-specific gene expression with prior derived from single-cell data, Genome Research, gr--268722, 2021.
 
-- Katsevich, Eugene and Barry, Timothy and Roeder, Kathryn, Conditional resampling improves calibration and sensitivity in single cell CRISPR screen analysis, bioRxiv, 2020--08, 2021.
+Katsevich, Eugene and Barry, Timothy and Roeder, Kathryn, Conditional resampling improves calibration and sensitivity in single cell CRISPR screen analysis, bioRxiv, 2020--08, 2021.
 
 Lin, Kevin Z and Lei, Jing and Roeder, Kathryn, Exponential-family embedding with application to cell developmental trajectories for single-cell RNA-seq data, Journal of the American Statistical Association, 1--14, 2021.
 
