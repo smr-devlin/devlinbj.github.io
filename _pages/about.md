@@ -15,18 +15,12 @@ The collaborative research I have enjoyed most is in the area of statistical gen
 # contact
 
 UPMC Professor of Statistics and Life Sciences
-
 Department of Statistics and Computational Biology
-
 Carnegie Mellon University
-
 Baker Hall 228B
-
 Pittsburgh, PA 15213
 
-Contact: kathryn.roeder (gmail)
-
+Email: kathryn.roeder (gmail)
 Phone: (412) 268-5775
-
 Fax: (412) 268-7828
 
