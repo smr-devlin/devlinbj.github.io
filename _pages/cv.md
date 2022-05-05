@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Ph.D. (Statistics), 1988, Pennsylvania State University
 * B.S. (Wildlife Resources, summa cum laude), 1982, University of Idaho
 
-Work experience
+POSITIONS
 ======
 * Carnegie Mellon University, Pittsburgh, PA
   * Vice Provost for Faculty; 2015-2019
@@ -73,5 +73,21 @@ PROFESSIONAL ACTIVITIES:
 * Genetics Society
   * Associate Editor 2014 -2015
  
+Advisory Boards:
+======
+* Autism Sister Project, by Autism Science Foundation, 2015-
+* External Advisory Board, NIH Big Data, Purdue University, 2015-
+* FBI on DNA forensics, 1995
+* NRC/NAS on DNA forensics, 1994-95
+* Carnegie Commission Study on Early Childhood Development, 1994
 
+
+Ph.D. Advisees:
+======
+Jinjin Liu, Tim Barron, Yue Li,   
+Ron Yurko, Minshi Peng, Kevin Lin, Fuchen Liu,   
+Li Liu (2014), Corneliu Bodea (2015), Cong Lu (2016),Lingxue Zhu (2018),   
+Daniel Percival (2012), Drew Crossett (2012), Gaia Bellone (2012),   
+Diana Luca (2008), Hoa Nguyen (2005), Jung-Ying Tzeng (2003), Xiaohua Zhang (2002),   
+Bobby Jones (2001), Johnny Lam, Kevin Lynch (1997), and Chris Andrews (1997).   
 
