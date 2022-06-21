@@ -11,6 +11,30 @@ author_profile: true
 
 # Selected Publications
 
+Tian, Jinjin, Jing Lei, and Kathryn Roeder. "From local to global gene co-expression estimation using single-cell RNA-seq data." arXiv preprint arXiv:2203.01990 (2022).
+
+Mahjani, Behrang, Lambertus Klei, Manuel Mattheisen, Matthew W. Halvorsen, Abraham Reichenberg, Kathryn Roeder, Nancy L. Pedersen et al. "The genetic architecture of obsessive-compulsive disorder: contribution of liability to OCD from alleles across the frequency spectrum." American Journal of Psychiatry 179, no. 3 (2022): 216-225.
+
+Chen, Danfeng, Katherine Tashman, Duncan S. Palmer, Benjamin Neale, Kathryn Roeder, Alex Bloemendal, Claire Churchhouse, and Zheng Tracy Ke. "A data harmonization pipeline to leverage external controls and boost power in GWAS." Human Molecular Genetics 31, no. 3 (2022): 481-489.
+
+Barry, Timothy, Eugene Katsevich, and Kathryn Roeder. "Exponential family measurement error models for single-cell CRISPR screens." arXiv preprint arXiv:2201.01879 (2022).
+
+Cai, Zhanrui, Jing Lei, and Kathryn Roeder. "Model-free Prediction Test with Application to Genomics Data." bioRxiv (2022).
+
+Wang, Xuran, David Choi, and Kathryn Roeder. "Constructing local cell-specific networks from single-cell data." Proceedings of the National Academy of Sciences 118, no. 51 (2021): e2113178118.
+
+Barry, Timothy, Xuran Wang, John A. Morris, Kathryn Roeder, and Eugene Katsevich. "SCEPTRE improves calibration and sensitivity in single-cell CRISPR screen analysis." Genome biology 22, no. 1 (2021): 1-19.
+
+Mahjani, Behrang, Silvia De Rubeis, Christina Gustavsson Mahjani, Maureen Mulhern, Xinyi Xu, Lambertus Klei, F. Kyle Satterstrom et al. "Prevalence and phenotypic impact of rare potentially damaging variants in autism spectrum disorder." Molecular autism 12, no. 1 (2021): 1-12.
+
+Klei, Lambertus, Lora Lee McClain, Behrang Mahjani, Klea Panayidou, Silvia De Rubeis, Anna-Carin Säll Grahnat, Gun Karlsson et al. "How rare and common risk variation jointly affect liability for autism spectrum disorder." Molecular autism 12, no. 1 (2021): 1-13.
+
+Yurko, Ronald, Kathryn Roeder, Bernie Devlin, and Max G’Sell. "An approach to gene-based testing accounting for dependence of tests among nearby genes." Briefings in Bioinformatics 22, no. 6 (2021): bbab329.
+
+Cai, Zhanrui, Jing Lei, and Kathryn Roeder. "A distribution-free independence test for high dimension data." arXiv preprint arXiv:2110.07652 (2021).
+
+Qiu, Yixuan, Jiebiao Wang, Jing Lei, and Kathryn Roeder. "Identification of cell-type-specific marker genes from co-expression patterns in tissue samples." Bioinformatics 37, no. 19 (2021): 3228-3234.
+
 Wang, Jiebiao and Roeder, Kathryn and Devlin, Bernie, Bayesian estimation of cell type-specific gene expression with prior derived from single-cell data, Genome Research, gr--268722, 2021.
 
 Katsevich, Eugene and Barry, Timothy and Roeder, Kathryn, Conditional resampling improves calibration and sensitivity in single cell CRISPR screen analysis, bioRxiv, 2020--08, 2021.
@@ -21,13 +45,7 @@ Qiu, Yixuan and Wang, Jiebiao and Lei, Jing and Roeder, Kathryn, Identification 
 
 Peng, Minshi and Wamsley, Brie and Elkins, Andrew G and Geschwind, Daniel M and Wei, Yuting and Roeder, Kathryn, Cell type hierarchy reconstruction via reconciliation of multi-resolution cluster tree, bioRxiv, 2021.
 
-Wang, Xuran and Choi, David and Roeder, Kathryn, Constructing Local Cell Sepcific Networks from Single Cell Data, bioRxiv, 2021.
-
 Peng, Minshi and Li, Yue and Wamsley, Brie and Wei, Yuting and Roeder, Kathryn, Integration and transfer learning of single-cell transcriptomes via cFIT, Proceedings of the National Academy of Sciences, 118(10), 2021.
-
-Yurko, Ronald J and Roeder, Kathryn and Devlin, Bernie and G'Sell, Max, An approach to gene-based testing accounting for dependence of tests among nearby genes, bioRxiv, 2021.
-
-Cai, Zhanrui and Lei, Jing and Roeder, Kathryn, A Distribution-Free Independence Test for High Dimension Data, arXiv preprint arXiv:2110.07652, 2021.
 
 Satterstrom, F Kyle and Kosmicki, Jack A and Wang, Jiebiao and Breen, Michael S and De Rubeis, Silvia and An, Joon-Yong and Peng, Minshi and Collins, Ryan and Grove, Jakob and Klei, Lambertus and others, Large-scale exome sequencing study implicates both developmental and functional changes in the neurobiology of autism, Cell, 180(3), 568--584, 2020.
 
