@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is the [CV](https://www.dropbox.com/s/bypkbt07jiavf7y/ZhanruiResume.pdf?dl=0).
+
 Education
 ======
 * Ph.D. (Statistics), 1988, Pennsylvania State University
