@@ -20,7 +20,7 @@ Carnegie Mellon University
 Baker Hall 228B   
 Pittsburgh, PA 15213   
 
-Email: kathryn.roeder (gmail).      
+Email: roeder at andrew.cmu.edu      
 Phone: (412) 268-5775.   
 Fax: (412) 268-7828.   
 
