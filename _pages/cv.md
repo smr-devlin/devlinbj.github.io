@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is the [CV](https://www.dropbox.com/s/bypkbt07jiavf7y/ZhanruiResume.pdf?dl=0).
+Here is the [CV](https://www.dropbox.com/s/s92hkjo0zkhj6ec/Vita_0621.pdf?dl=0).
 
 Education
 ======
