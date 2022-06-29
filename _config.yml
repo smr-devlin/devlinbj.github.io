@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kathryn Roeder"
+title                    : "Bernie Devlin"
 title_separator          : "-"
-name                     : &name "Kathryn Roeder"
-description              : &description "UPMC Professor of Statistics and Life Sciences"
+name                     : &name "Bernie Devlin"
+description              : &description "Professor of Psychiatry and Clinical and Translational Science"
 url                      : https://kathrynmroeder.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kathrynmroeder.github.io"
+repository               : "devlinbj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kathryn Roeder"
+  name             : "Bernie Devlin"
   avatar           : "KR.png"
-  bio              : "UPMC Professor of Statistics and Life Sciences"
+  bio              : "Professor of Psychiatry and Clinical and Translational Science"
   location         : "Pittsbuurgh, PA"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=kathryn+roeder"
-  googlescholar    : "https://scholar.google.com/citations?user=KPxl53wzvv4C&hl=en"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=devlin+b+Pittsburgh+psychiatry"
+  googlescholar    : "https://scholar.google.com/citations?user=W7147jcAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8869-6254"
+  orcid            : "https://orcid.org/0000-0003-2524-4290"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
