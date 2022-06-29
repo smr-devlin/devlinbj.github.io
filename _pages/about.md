@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kathryn Roeder"
+title: "Bernie Devlin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I began my career as a biologist, but found that every question that interested me could only be answered by solving an even more intriguing statistical puzzle. Thus my career path veered into statistics. However, much of my work, both theoretical and applied, remains motivated by my scientific training.
- 
-The collaborative research I have enjoyed most is in the area of statistical genetics and genomics. Right now, a topic that interests me greatly is the use of statistical tools applied to genetic and genomic data to understand the workings of the human brain, and the interplay with genetic variation. For many years a primary goal of my research group is to develop statistical tools for finding associations between patterns of genetic variation and complex disease. Recently my collaborative work is primarily motivated by the goal of understanding the genetic etiology of autism and other neuropsychiatric disorders. We develop new tools for the analysis of rare genetic variants in the genome, single-cell RNA sequencing data and other multi-omic data. These methods rely on various statistical and machine learning methods, including graphical modeling, network community estimation and latent space embedding, sparse PCA and high dimensional nonparametric techniques.
- 
-My lab has close ties with Bernie Devlin’s Computational Genomics group at University of Pittsburgh’s School of Medicine. Devlin and Roeder have a co-published more than 100 papers since 1987.  They hold joint lab meetings covering both advanced statistical methods, genetics and genomics.   I am also a voting faculty member in the Department of Computational Biology, School of Computer Science at CMU.
- 
+The Devlin lab has two major foci, the development or refinement of statistical methods for the analysis of genetic data and the implementation of such methods to discover the genetic basis of disease and related phenotypes. On the statistical front, our major efforts involve methods appropriate for large-scale genetic studies, including association, copy number variants and sequencing. Much of our empirical work targets such studies, with an emphasis on characterizing the genetic basis of autism spectrum disorder and schizophrenia.
+
+We have close ties with Kathryn Roeder's group in the Department of Statistics at Carnegie Mellon University. Devlin and Roeder have a collaborative relationship that has continued since 1987, when we coauthored our first statistical genetics manuscript, which was published in Theoretical and Applied Genetics the next year. We hold joint lab meetings covering both advanced statistical methods and genetics.
 
 # contact
 
-UPMC Professor of Statistics and Life Sciences       
-Department of Statistics and Computational Biology   
-Carnegie Mellon University   
-Baker Hall 228B   
-Pittsburgh, PA 15213   
-
-Email: roeder at andrew.cmu.edu      
-Phone: (412) 268-5775.   
-Fax: (412) 268-7828.   
-
+Department of Psychiatry and Human Genetics
+University of Pittsburgh School of Medicine
+3811 O'Hara St.
+Pittsburgh, PA 14213
+412-246-6642
+devlinbj @ upmc.edu
