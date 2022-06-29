@@ -14,9 +14,9 @@ We have close ties with Kathryn Roeder's group in the Department of Statistics a
 
 # contact
 
-Department of Psychiatry and Human Genetics
-University of Pittsburgh School of Medicine
-3811 O'Hara St.
-Pittsburgh, PA 14213
-412-246-6642
-devlinbj @ upmc.edu
+Department of Psychiatry and Human Genetics.  
+University of Pittsburgh School of Medicine.  
+3811 O'Hara St.   
+Pittsburgh, PA 14213.  
+412-246-6642.  
+devlinbj @ upmc.edu.  
