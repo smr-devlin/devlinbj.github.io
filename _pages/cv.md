@@ -9,87 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Here is the [CV](https://www.dropbox.com/s/s92hkjo0zkhj6ec/Vita_0621.pdf?dl=0).
+Here is the [CV](https://www.dropbox.com/s/cd5q0xi7he5hsim/Bernie%20Devlin%20CV.062122.simple.docx?dl=0).
 
 Education
 ======
-* Ph.D. (Statistics), 1988, Pennsylvania State University
-* B.S. (Wildlife Resources, summa cum laude), 1982, University of Idaho
+* Ph.D. (Botany), 1986, Pennsylvania State University
+* B.S. (Biology), 1976, Indiana University of Pennsylvania
 
 Positions
 ======
-* Carnegie Mellon University, Pittsburgh, PA
-  * Vice Provost for Faculty; 2015-2019
-  * Departments of Statistics and Data Science & Computational Biology 1998-present, Professor; 1994-1997, Associate Professor
+* 1986 - 1987   Post-Doctoral Fellowship, University of California, Riverside, California
+* 1989 - 1995   Biostatistician & Associate Research Scientist, Division of Biostatistics, Department of Epidemiology and Public Health, Yale University School of Medicine, New Haven, Connecticut
+* 1995 - 1996	Visiting Research Scientist, Department of Statistics, Carnegie Mellon University, Pittsburgh, PA
+* 1997 -	Adjunct Associate Professor, Department of Statistics, Carnegie Mellon University, Pittsburgh, Pennsylvania
+* 1997 -		Director, Program in Computational Genetics, Western Psychiatric Institute and Clinic, University	of Pittsburgh Medical Center, Pittsburgh, Pennsylvania
+* 2/97 – 3/97	Adjunct Assistant Professor of Psychiatry, Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania
+* 4/97 – 1/98	Visiting Assistant Professor of Psychiatry, Department of Psychiatry, University of Pittsburgh
+			School of Medicine, Pittsburgh, Pennsylvania
+* 1997- 	Joint Appointment Assistant Professor, Department of Human Genetics, University of Pittsburgh, Pittsburgh, Pennsylvania    
+* 2/98 – 6/02	Assistant Professor of Psychiatry within Tenure Stream, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania
+* 7/02 – 6/04	Associate Professor of Psychiatry within Tenure Stream, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania  
+* 7/04 – 9/12   	Associate Professor of Psychiatry with Tenure, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania
+* 10/12-   		Professor of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania
 
-* Yale University, New Haven, CT
-  * 1991-1994, Associate Professor; 1988-1991, Assistant Professor
+      
+
   
 Selected Awards:
 ======
-* COPSS Distinguished Achievement Award and Lectureship, 2020
-* University Professorship, 2020
-* National Academy of Sciences, 2019
-* Web of Science, Clarivate Analytics Cross-Fields Highly Cited Researcher, 2018, 2020
-* UPMC Professor of Statistics and Life Sciences, 2017
-* Penn State Eberly College of Science Outstanding Alumni Award, 2014
-* Janet L Norwood Award, outstanding achievement by a woman in Statistical Sciences, 2013
-* Medallion Lecture, 1999
-* Presidents’ Award, COPSS 1997
-* COPSS Snedecor Award, for best biometrical paper, 1995-1997
-* NSF Young Investigator Award, 1992-1997
+* Seaver Autism Center, Distinguished Lecturer (2014)
+* NIMH MERIT Award for MH057881 (awarded 2013) 
+* University of Pittsburgh Faculty Honors (Honors Convocation 2010).
+* American Association for the Advancement of Science Fellow, induction February 14, 2009
+* Chair of the Center for Inherited Disease Research (CIDR) Access Committee, 2008 – 2010
+* Member, Genetics of Human Disease, NIH Study Section, 2009-2015
+* Scientific Advisory Board/Council: Autism Speaks (2009-2014)
+* American Foundation for Suicide Prevention (2005-2015)
+* NeuroDevNet, a Canadian National Center of Excellence (2010-2018); 
+* Anorexia Nervosa Genetics Initiative (2013-2018); 
+* Cell Bank Advisory Committee of the National Cell Repository for Alzheimer disease (2013-2021).
+* Award presented by the Federal Bureau of Investigation in appreciation and recognition of efforts in DNA analysis from 1988-1998.
 
-Distinguished Lecturer:
+
+MEMBERSHIPS IN PROFESSIONAL AND SCIENTIFIC SOCIETIES:
 ======
-* CC Li Lecture 2021
-* Selected JASA-App Paper for JSM 2020-JASA section
-* INSAR Keynote Speaker 2019
-* Norman Breslow Lecture, 2019
-* Myra Samuels Lecture, 2017
-* Graybill Conference, Keynote Speaker, 2017
-* Seaver Lecturer Mount Sinai School of Medicine, 2014
-* Donna J. Brogan Lecture, Emory University, 2014
-* Myrto Lefkopoulou Lecture, Harvard School of Public Health, 1998
-* Kansas State University, 1997
-* Goucher College, 1995
-* Purdue University’s School of Science, 1994
-
-Professional Activities:
-======
-* Institute of Mathematical Statistics
-  * Elected Fellow, 1997
-  * Executive Secretary, 1996-1999
-  * Program Chair, Spring Meetings, 1994
-* American Statistical Association
-  * Elected Fellow, 1996
-  * Associate Editor, Journal of the American Statistical Association, T&M 1994-1999, 2001-2005
-  * Associate Editor, Journal of the American Statistical Association, CS&A 1999-2008
-* American Association for the Advancement of Science (AAAS)
-  * Statistics Section chair 2017
-  * Elected fellow 2020
-* International Statistical Institute
-  * Elected member, 1995
-* International Biometrics Society
-  * Associate Editor, Biometrics, 1997-
-  * Best Abstract Award, 1992
-* Genetics Society
-  * Associate Editor 2014 -2015
- 
-Advisory Boards:
-======
-* Autism Sister Project, by Autism Science Foundation, 2015-
-* External Advisory Board, NIH Big Data, Purdue University, 2015-
-* FBI on DNA forensics, 1995
-* NRC/NAS on DNA forensics, 1994-95
-* Carnegie Commission Study on Early Childhood Development, 1994
+* American Association for the Advancement of Science (1997-present)
+* American Society of Human Genetics (1995-present) 
+* International Society for Autism Research (2012-present)
 
 
-Ph.D. Advisees:
-======
-Jinjin Liu, Tim Barron, Yue Li,   
-Ron Yurko, Minshi Peng, Kevin Lin, Fuchen Liu,   
-Li Liu (2014), Corneliu Bodea (2015), Cong Lu (2016),Lingxue Zhu (2018),   
-Daniel Percival (2012), Drew Crossett (2012), Gaia Bellone (2012),   
-Diana Luca (2008), Hoa Nguyen (2005), Jung-Ying Tzeng (2003), Xiaohua Zhang (2002),   
-Bobby Jones (2001), Johnny Lam, Kevin Lynch (1997), and Chris Andrews (1997).   
 
+  
