@@ -9,19 +9,10 @@ redirect_from:
 
 {% include feature_row %}
 
-# Postdocs
+# Lab members
 
+- [Lambertus (Bert) Klei]()
 - [Haeun Moon]()
-- [Tianyu Zhang]()
-
-
-# Ph.D. students
-
-- [Tim Barry](https://timothy-barry.github.io/)
-- [Jin-Hong Du](https://jaydu1.github.io/dujinhong/)
-- [Maya Shen](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/maya-shen.html)
-- [Jinjin Tian](https://jinjint.github.io/)
-- [Catherine Wang](https://www.cmu.edu/dietrich/statistics-datascience/people/phd/catherine-wang.html)
 
 
 
