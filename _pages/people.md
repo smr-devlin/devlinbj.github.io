@@ -12,6 +12,10 @@ redirect_from:
 # Lab members
 
 - [Lambertus (Bert) Klei]()
+  
+  ![alt text](Bert.jpeg "Title")
+
+
 - [Haeun Moon]()
 
 
