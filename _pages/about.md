@@ -14,7 +14,7 @@ We have close ties with Kathryn Roeder's group in the Department of Statistics a
 
 # contact
 
-Department of Psychiatry and Human Genetics.  
+Department of Psychiatry.  
 University of Pittsburgh School of Medicine.  
 3811 O'Hara St.   
 Pittsburgh, PA 14213.  
