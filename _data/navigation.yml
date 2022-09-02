@@ -1,15 +1,13 @@
 # main links links
 main:
   - title: "Brief Bio"
-    url: https://devlinbj.github.io/bio/    
+    url: https://smr-devlin.github.io/bio/
 
   - title: "Publications"
-    url: https://devlinbj.github.io/publications/    
+    url: https://smr-devlin.github.io/publications/
 
   - title: "CV"
-    url: https://devlinbj.github.io/cv/    
-        
+    url: https://smr-devlin.github.io/cv/
+
   - title: "People"
-    url: https://devlinbj.github.io/people/
-    
-  
+    url: https://smr-devlin.github.io/people/
