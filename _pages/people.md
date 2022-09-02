@@ -13,7 +13,7 @@ redirect_from:
 
 - [Lambertus (Bert) Klei]()
 
-<img src="../images/BD.png" alt="Lambertus (Bert) Klei" width="500"/>
+<img src="../images/Bert.png" alt="Lambertus (Bert) Klei" width="500"/>
 
 While growing up in a small town in The Netherlands I always hung out on a local dairy farm. Yes I did wear wooden shoes. This steered me towards animal science and in particular animal breeding and genetics while in college at what is now known as Wageningen Agricultural University. After completing my PhD in the same field with minors in statistics and mathematics at Cornell University I started working in the animal breeding by working for first the American Simmental Association and later the US Holstein Association. In my capacity as researcher for these organizations I was involved with the development of software and statistical methods to help identify genetically superior animals to be used for breeding. An important part of my job was outreach to farmers, in the US and abroad, to explain why our methods of evaluating their animals could help their bottom line.
 
