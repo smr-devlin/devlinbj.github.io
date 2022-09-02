@@ -24,6 +24,6 @@ The focus of my research is on how statistical and computational methods can be 
 
 - [Haeun Moon]()
 
-<img src="HM.png" alt="Haeun Moon" width="500"/>
+<img src="../images/HM.png" alt="Haeun Moon" width="500"/>
 
 My research focuses on the development of methodologies to detect nonlinear relationships between variables as well as their application to select important variables in high-dimensional data. Specifically, my recent published work (Moon and Chen, 2020, https://www.stat.pitt.edu/khchen/authorversions/IPRtau.pdf) focuses on the development of a new test of independence based on the measure which quantifies the association between variables in general space. As an ongoing project, we are working on the application of existing measures of dependence to select important genes for suicidal behaviors.
